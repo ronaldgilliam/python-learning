@@ -1,4 +1,5 @@
-num1 = float(input("Enter first number: "))
+#This is an app for a simple calculator
+um1 = float(input("Enter first number: "))
 op = input("Enter operator: ")
 num2 = float(input("Enter second number: "))
 
